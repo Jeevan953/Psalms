@@ -1,0 +1,1 @@
+var e=[{reference:`Psalm 1:1`,text_en:`Blessed is the man who does not walk in the counsel of the wicked.`,text_ta:`பகுத்தறிவற்றோரின் ஆலோசனையில் நடக்காதவர் ஆசீர்வதிக்கப்படுகிறார்.`},{reference:`Psalm 1:2`,text_en:`But his delight is in the law of the Lord.`,text_ta:`ஆனால் அவர் மகிழ்ச்சியடையும் தாராளம் ஆண்டவரின் நியமத்தில் உள்ளது.`}];export{e as default};
